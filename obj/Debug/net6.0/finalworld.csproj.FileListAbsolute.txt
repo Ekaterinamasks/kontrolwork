@@ -1,0 +1,15 @@
+C:\Users\79312\OneDrive\Рабочий стол\itogovai\finalworld\bin\Debug\net6.0\finalworld.exe
+C:\Users\79312\OneDrive\Рабочий стол\itogovai\finalworld\bin\Debug\net6.0\finalworld.deps.json
+C:\Users\79312\OneDrive\Рабочий стол\itogovai\finalworld\bin\Debug\net6.0\finalworld.runtimeconfig.json
+C:\Users\79312\OneDrive\Рабочий стол\itogovai\finalworld\bin\Debug\net6.0\finalworld.dll
+C:\Users\79312\OneDrive\Рабочий стол\itogovai\finalworld\bin\Debug\net6.0\finalworld.pdb
+C:\Users\79312\OneDrive\Рабочий стол\itogovai\finalworld\obj\Debug\net6.0\finalworld.csproj.AssemblyReference.cache
+C:\Users\79312\OneDrive\Рабочий стол\itogovai\finalworld\obj\Debug\net6.0\finalworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79312\OneDrive\Рабочий стол\itogovai\finalworld\obj\Debug\net6.0\finalworld.AssemblyInfoInputs.cache
+C:\Users\79312\OneDrive\Рабочий стол\itogovai\finalworld\obj\Debug\net6.0\finalworld.AssemblyInfo.cs
+C:\Users\79312\OneDrive\Рабочий стол\itogovai\finalworld\obj\Debug\net6.0\finalworld.csproj.CoreCompileInputs.cache
+C:\Users\79312\OneDrive\Рабочий стол\itogovai\finalworld\obj\Debug\net6.0\finalworld.dll
+C:\Users\79312\OneDrive\Рабочий стол\itogovai\finalworld\obj\Debug\net6.0\refint\finalworld.dll
+C:\Users\79312\OneDrive\Рабочий стол\itogovai\finalworld\obj\Debug\net6.0\finalworld.pdb
+C:\Users\79312\OneDrive\Рабочий стол\itogovai\finalworld\obj\Debug\net6.0\finalworld.genruntimeconfig.cache
+C:\Users\79312\OneDrive\Рабочий стол\itogovai\finalworld\obj\Debug\net6.0\ref\finalworld.dll
